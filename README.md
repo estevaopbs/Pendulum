@@ -55,4 +55,4 @@ pip install -r requirements.txt
 Contributions to Pendulum are welcome! Fork the repository, make your changes, and submit a pull request.
 
 ## License
-Pendulum is licensed under the MIT License. See the LICENSE file for more information.
+Pendulum is licensed under the [MIT License](LICENSE).
