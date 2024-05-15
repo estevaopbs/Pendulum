@@ -2,14 +2,16 @@
 
 ## Table of Contents
 
-- [Description] (#Description)
-- [Usage] (#Usage)
-- [Commands] (#Commands)
-- [Menu] (#Menu) Items
-- [Cloning] (#Cloning)
-- [Installation] (#Installation)
-- [Contributing] (#Contributing)
-- [License] (#License)
+- [Pendulum](#pendulum)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Usage](#usage)
+  - [Commands](#commands)
+  - [Menu Items](#menu-items)
+  - [Cloning](#cloning)
+  - [Installation](#installation)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Description
 
