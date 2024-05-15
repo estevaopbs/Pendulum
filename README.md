@@ -23,19 +23,19 @@ To use Pendulum, you need to run the main.py file. The simulation starts by mani
 
 ## Commands
 
-- P: Pauses/resumes the simulation.
-- R: Toggles redimension mode, allowing you to adjust the pendulum's parameters.
+- **P**: Pauses/resumes the simulation.
+- **R**: Toggles redimension mode, allowing you to adjust the pendulum's parameters.
 
 ## Menu Items
 
-- Length (m): Sets the length of the pendulum.
-- Mass (kg): Sets the mass of the pendulum's weight.
-- Gravitational acceleration (m/s²): Sets the gravitational acceleration.
-- Drag factor: Sets the resistive force acting on the pendulum.
-- Graph: Selects the type of graph to display (Energies, Angle, Positions).
-- Timespan: Adjusts the time interval for graph display.
-- Export graph: Initiates the export of the selected graph.
-- Exit: Exits the application.
+- **Length (m)**: Sets the length of the pendulum.
+- **Mass (kg)**: Sets the mass of the pendulum's weight.
+- **Gravitational acceleration (m/s²)**: Sets the gravitational acceleration.
+- **Drag factor**: Sets the resistive force acting on the pendulum.
+- **Graph**: Selects the type of graph to display (Energies, Angle, Positions).
+- **Timespan**: Adjusts the time interval for graph display.
+- **Export graph**: Initiates the export of the selected graph.
+- **Exit**: Exits the application.
 
 ## Cloning 
 To clone the Pendulum repository, use the following command:
