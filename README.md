@@ -41,7 +41,7 @@ To use Pendulum, you need to run the main.py file. The simulation starts by mani
 To clone the Pendulum repository, use the following command:
 
 ```bash
-git clone https://github.com/yourusername/Pendulum.git
+git clone https://github.com/estevaopbs/Pendulum
 ```
 ## Installation
 
